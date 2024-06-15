@@ -162,5 +162,4 @@ def scrape_and_update():
         return jsonify({'message': f'Error: {str(e)}'}), 500
 
 if __name__ == '__main__':
-    app.run()
-    #serve(app, host='0.0.0.0', port=8080)
+    serve(app, host='0.0.0.0', port=8080)
