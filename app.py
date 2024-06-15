@@ -142,8 +142,8 @@ def firebase_upload(leaderboard_data):
 def scrape_and_update():
     try:
         # Hardcoded credentials
-        username = 'thalakratos5@gmail.com'
-        password = 'Zeusfatherkratos'
+        username = ''
+        password = ''
 
         driver = login(username, password)
         if driver:
