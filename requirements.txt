@@ -6,3 +6,4 @@ waitress
 firebase
 chromedriver
 chromedriver-autoinstaller
+Gunicorn
