@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "postinstall": "node install.js"
+    },
+    "dependencies": {
+        "chromedriver": "^126.0.0"
+    }
+}

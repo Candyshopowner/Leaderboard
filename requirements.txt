@@ -1,0 +1,6 @@
+flask
+bs4
+selenium
+firebase_admin
+waitress
+firebase
